@@ -59,14 +59,14 @@
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [twitter]: https://twitter.com/codeSTACKr
