@@ -5,9 +5,8 @@
 
 ## I'm a Acoustic Engineer, Scrum Master, Project management Specialist, and a Full Stack Js Web Developer
 
-- I’m currently Studying to become a full Stack Js Web Developer.
 - Make it Real Full Stack Js Web developer 2020.
-- -Make it Real Top program 2020.
+- Make it Real Top program 2020.
 - I’m looking to collaborate with other content creators.
 - 2021 Goals: Learn everything about Web development.
 
