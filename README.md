@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Acoustic Engineer, Scrum Master, Project management Specialist, and a Full Stack Js Web Developer
+## I'm a Full Stack Js Web Developer, Acoustic Engineer, Scrum Master, and a Project management Specialist.
 
 - Make it Real Full Stack Js Web developer 2020.
 - Make it Real Top program 2020.
